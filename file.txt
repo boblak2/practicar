@@ -1,1 +1,2 @@
 File with data
+line 2
