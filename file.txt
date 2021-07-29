@@ -1,3 +1,4 @@
 File with data
 line 2
 line 3 iz DEV branch
+Line 4
