@@ -3,3 +3,4 @@ line 2
 line 3 iz DEV branch
 Line 4
 test stash
+Git merge conflict
