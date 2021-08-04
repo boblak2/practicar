@@ -1,2 +1,3 @@
 file 2 - first line
 GitHub added a line
+GitHub added a line2
