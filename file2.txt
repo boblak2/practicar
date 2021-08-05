@@ -2,4 +2,4 @@ file 2 - first line
 GitHub added a line
 GitHub added a line2
 Added from local
-Local input
+Test fetch :)
