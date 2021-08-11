@@ -3,3 +3,6 @@ UIX design
 binding
 listView
 how to create custom button in XAML
+BindingContext
+Battary para ordonador
+UI using C# code
