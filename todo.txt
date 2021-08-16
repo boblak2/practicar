@@ -1,8 +1,7 @@
-create dll lib
-UIX design
-binding
-listView
 how to create custom button in XAML
 BindingContext
-Battary para ordonador
-UI using C# code
+using() statement
+import image in xamarin project
+
+Casa:
+Llamar a dientes
