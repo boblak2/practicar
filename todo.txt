@@ -1,7 +1,10 @@
-how to create custom button in XAML
 BindingContext
 using() statement
-import image in xamarin project
+ver nuget hasta fin de corto
 
 Casa:
 Llamar a dientes
+ver apartamiento
+ver vecaciones
+backup DOG app
+llevar a coche
