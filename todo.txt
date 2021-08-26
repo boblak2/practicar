@@ -1,10 +1,12 @@
 BindingContext
 using() statement
 ver nuget hasta fin de corto
+Entety Framework
 
 Casa:
 Llamar a dientes
 ver apartamiento
 ver vecaciones
 backup DOG app
-llevar a coche
+levar a coche
+ZVEM app, CORIS
