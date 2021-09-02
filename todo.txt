@@ -1,7 +1,8 @@
 BindingContext
-using() statement
 ver nuget hasta fin de corto
-Entety Framework
+Entety Framework - ver un video
+DOG(new version) -> git
+Check how to make pc hot spot
 
 Casa:
 Llamar a dientes
@@ -10,3 +11,6 @@ ver vecaciones
 backup DOG app
 levar a coche
 ZVEM app, CORIS
+copy file z Regx, git bash
+check cramzy call
+que es Data roming
